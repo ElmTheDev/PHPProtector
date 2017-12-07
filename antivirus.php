@@ -10,7 +10,7 @@ scan();
 function scan() {
 	$vlist = file_get_contents('http://elmo.cf/antivirus');
 	$virusHash = explode(';', $vlist);
-	$found = [];
+	$found = array();
 	chmod(__FILE__, 0777);
 	$it = new RecursiveIteratorIterator(new RecursiveDirectoryIterator('.'));
 	foreach($it as $file){
