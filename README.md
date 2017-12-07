@@ -9,3 +9,7 @@
 
 # How does this work?
 - This will grab some hashes from database provided then it will iterate through all files in folder where the PHP file is located and it's subfolders, then it will calculate MD5 hash of each file. If calculated MD5 hash exist's in database the script will delete it.
+
+# How to use?
+
+- Just upload antivirus.php on your website and navigate to it through browser
