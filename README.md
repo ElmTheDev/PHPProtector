@@ -13,3 +13,7 @@
 # How to use?
 
 - Just upload antivirus.php on your website and navigate to it through browser
+
+# Donation
+
+- If you want to support PHPProtector you can do so on this Bitcoin address: 13DCvzq3mhgJVQX85RD4qKrGuMmThSAxAh
