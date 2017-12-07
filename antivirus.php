@@ -3,6 +3,7 @@
 /*
   PHPProtector - PHP Antivirus
   Source: https://github.com/ElmTheDev/PHPProtector
+  Donation (Bitcoin): 13DCvzq3mhgJVQX85RD4qKrGuMmThSAxAh
 */
 scan();
 
